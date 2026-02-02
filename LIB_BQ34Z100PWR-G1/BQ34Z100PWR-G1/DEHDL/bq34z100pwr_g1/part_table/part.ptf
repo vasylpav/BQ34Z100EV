@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BQ34Z100PWR_G1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "BQ34Z100PWR-G1" (!) = "", "SOP65P640X120-14N", "Small Outline Packages", "595-BQ34Z100PWR-G1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ34Z100PWR-G1?qs=igE0IiKpbrGE%2FNmDcdE48w%3D%3D", "BQ34Z100PWR-G1", "https://www.arrow.com/en/products/bq34z100pwr-g1/texas-instruments?utm_currency=USD&region=nac", "Multi-Chemistry Impedance Track Standalone Fuel Gauge | Battery Gas Gauge", "http://www.ti.com/lit/ds/symlink/bq34z100-g1.pdf", "1.2 mm"
+END_PART
+
+END.

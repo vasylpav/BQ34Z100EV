@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ34Z100PWR-G1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=4.4
+Released=2015-11-06 03:21:26
+Downloaded=2026-01-27 16:57:16
+3D=Y

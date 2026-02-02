@@ -1,0 +1,18 @@
+.BQ34Z100PWR-G1 :1 ;Multi-Chemistry Impedance Track Standalone Fuel Gauge | Battery Gas Gauge
+SOP65P640X120-14N
+*STM IC
+*NGS
+*PLB 1="P2" 2="VEN" 3="P1" 4="BAT" 5="CE" 6="REGIN" 7="REG25" 8="VSS" 9="SRP" 10="SRN" 11="P6/TS" 12="P5/HDQ" 13="P4/SCL" 14="P3/SDA"
+*MXP 14
+*DFN BQ34Z100PWR-G1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ34Z100PWR-G1)
+~!Mouser Part Number (595-BQ34Z100PWR-G1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ34Z100PWR-G1?qs=igE0IiKpbrGE%2FNmDcdE48w%3D%3D)
+~!Arrow Part Number (BQ34Z100PWR-G1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bq34z100pwr-g1/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/bq34z100-g1.pdf)
+~!Height (1.2mm)
+~!3D_Model (BQ34Z100PWR-G1)
+BQ34Z100PWR-G1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 
