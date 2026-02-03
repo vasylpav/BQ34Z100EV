@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74HC164PWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.4
+Released=2021-04-28 05:14:58
+Downloaded=2026-02-03 18:33:46
+3D=Y

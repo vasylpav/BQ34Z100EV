@@ -1,0 +1,9 @@
+Manufacturer=MCC
+PartNumber=BZT52C5V6T
+PartCategory=Zener Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=4.1
+Released=2021-12-19 11:59:07
+Downloaded=2026-02-03 16:21:31
+3D=Y

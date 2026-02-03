@@ -1,0 +1,18 @@
+.BZT52C5V6T :1 ;Zener Diode 5.6 V 200 mW +/-7% Surface Mount SOD-523
+SODFL1608X70N
+*STM Z
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN BZT52C5V6T
+~!Manufacturer_Name (MCC)
+~!Manufacturer_Part_Number (BZT52C5V6T)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mccsemi.com/pdf/Products/BZT52C(B)2V4T-BZT52C(B)39T(SOD-523).pdf)
+~!Height (0.7mm)
+~!3D_Model (BZT52C5V6T)
+BZT52C5V6T
+1.1!U 2.1!U 

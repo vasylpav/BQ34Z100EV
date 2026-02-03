@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AZ23C5V6-7-F
+D Diode Zener 5.6V 5% 300mW SOT23 Diodes Inc AZ23C5V6-7-F Dual Zener Diode, Common Anode, 5.6V 5% 0.3 W SMT 3-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/AZ23C2V7-AZ23C51.pdf
+$ENDCMP
+#
+#End Doc Library

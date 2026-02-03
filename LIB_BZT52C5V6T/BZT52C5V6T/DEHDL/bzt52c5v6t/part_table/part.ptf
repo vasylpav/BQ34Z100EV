@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BZT52C5V6T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MCC", "BZT52C5V6T" (!) = "", "SODFL1608X70N", "Small Outline Diode Flat Lead", "", "", "", "", "Zener Diode 5.6 V 200 mW +/-7% Surface Mount SOD-523", "https://www.mccsemi.com/pdf/Products/BZT52C(B)2V4T-BZT52C(B)39T(SOD-523).pdf", "0.7 mm"
+END_PART
+
+END.

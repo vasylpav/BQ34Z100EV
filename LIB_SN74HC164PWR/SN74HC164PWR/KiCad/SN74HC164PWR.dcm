@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC164PWR
+D 8-Bit Parallel-Out Serial Shift Registers
+K
+F http://www.ti.com/lit/gpn/sn74hc164
+$ENDCMP
+#
+#End Doc Library

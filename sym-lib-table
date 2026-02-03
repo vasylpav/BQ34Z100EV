@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BZT52C5V6T")(type "KiCad")(uri "${KIPRJMOD}/LIB_BZT52C5V6T/BZT52C5V6T/KiCad/BZT52C5V6T.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ23C5V6-7-F")(type "KiCad")(uri "${KIPRJMOD}/LIB_AZ23C5V6-7-F/AZ23C5V6-7-F/KiCad/AZ23C5V6-7-F.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC164PWR")(type "KiCad")(uri "${KIPRJMOD}/LIB_SN74HC164PWR/SN74HC164PWR/KiCad/SN74HC164PWR.kicad_sym")(options "")(descr ""))
+)

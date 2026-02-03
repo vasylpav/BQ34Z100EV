@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_353406"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-24-07:35:05)
+    (utime 2024-06-25-08:04:23)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "AZ23C5V6-7-F")
+)
+
+
+(pinAssign "ECS_353406"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-24-07:35:05)
+    (utime 2024-06-25-08:04:23)
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_353406")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "AZ23C5V6-7-F")
+)
+
+
+(part "AZ23C5V6-7-F"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-24-07:35:05)
+    (utime 2024-06-25-08:04:23)
+    (packageRef "AZ23C5V6-7-F")
+    (pinAssignRef "ECS_353406")
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "Z")
+    (property "description" "Diode Zener 5.6V 5% 300mW SOT23 Diodes Inc AZ23C5V6-7-F Dual Zener Diode, Common Anode, 5.6V 5% 0.3 W SMT 3-Pin SOT-23")
+    (property "Manufacturer_Name" "Diodes Incorporated")
+    (property "Manufacturer_Part_Number" "AZ23C5V6-7-F")
+    (property "Mouser_Part_Number" "621-AZ23C5V6-F")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AZ23C5V6-7-F?qs=xQ7EkeYTsWGNI9v36qvVFw%3D%3D")
+    (property "Arrow_Part_Number" "AZ23C5V6-7-F")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/az23c5v6-7-f/diodes-incorporated?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://www.diodes.com//assets/Datasheets/AZ23C2V7-AZ23C51.pdf")
+    (property "compAreaTopHeight" 1.15)
+)
+
+

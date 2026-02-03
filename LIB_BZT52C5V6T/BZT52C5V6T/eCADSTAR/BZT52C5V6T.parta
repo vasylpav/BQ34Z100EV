@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_15592211"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-19-11:59:07)
+    (utime 2024-05-20-09:06:04)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "BZT52C5V6T")
+)
+
+
+(pinAssign "ECS_15592211"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-19-11:59:07)
+    (utime 2024-05-20-09:06:04)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15592211")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BZT52C5V6T")
+)
+
+
+(part "BZT52C5V6T"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-12-19-11:59:07)
+    (utime 2024-05-20-09:06:04)
+    (packageRef "BZT52C5V6T")
+    (pinAssignRef "ECS_15592211")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "Z")
+    (property "description" "Zener Diode 5.6 V 200 mW +/-7% Surface Mount SOD-523")
+    (property "Manufacturer_Name" "MCC")
+    (property "Manufacturer_Part_Number" "BZT52C5V6T")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mccsemi.com/pdf/Products/BZT52C(B)2V4T-BZT52C(B)39T(SOD-523).pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

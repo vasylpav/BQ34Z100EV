@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZT52C5V6T
+D Zener Diode 5.6 V 200 mW +/-7% Surface Mount SOD-523
+K
+F https://www.mccsemi.com/pdf/Products/BZT52C(B)2V4T-BZT52C(B)39T(SOD-523).pdf
+$ENDCMP
+#
+#End Doc Library
