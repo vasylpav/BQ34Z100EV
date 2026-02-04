@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_BQ34Z100PWR-G1/BQ34Z100PWR-G1/KiCad.pretty")(options "")(descr ""))
+)
