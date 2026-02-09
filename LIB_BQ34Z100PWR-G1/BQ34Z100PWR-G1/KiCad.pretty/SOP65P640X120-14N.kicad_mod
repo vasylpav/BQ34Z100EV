@@ -289,7 +289,7 @@
 		(uuid "2898a87a-caa9-4a65-aac1-457d2a70bc75")
 	)
 	(embedded_fonts no)
-	(model "SN74HC164PWR.stp"
+	(model "${KIPRJMOD}/LIB_BQ34Z100PWR-G1/BQ34Z100PWR-G1/3D/BQ34Z100PWR-G1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

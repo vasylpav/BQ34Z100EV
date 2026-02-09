@@ -223,7 +223,19 @@
 		(uuid "67c969c9-a900-491c-9002-8c70e94108b9")
 	)
 	(embedded_fonts no)
-	(model "AZ23C5V6-7-F.stp"
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

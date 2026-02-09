@@ -187,15 +187,15 @@
 		(uuid "798fb9da-2ddd-4f19-b503-68732781a6b1")
 	)
 	(embedded_fonts no)
-	(model "BZT52C5V6T.stp"
+	(model "${KIPRJMOD}/LIB_BZT52C5V6T/BZT52C5V6T/3D/BZT52C5V6T.stp"
 		(offset
-			(xyz 0.279999997 -2.79999991 0.1099999978)
+			(xyz -0.26 2.8 0.1)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 -180)
+			(xyz -90 -0 -0)
 		)
 	)
 )
