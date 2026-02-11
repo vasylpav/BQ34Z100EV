@@ -5699,7 +5699,7 @@
 		(descr "SOT-23----sss")
 		(tags "Zener Diode")
 		(property "Reference" "Z2"
-			(at 0 -2.9 90)
+			(at 0 2.8 90)
 			(layer "F.SilkS")
 			(uuid "1424a941-16ea-4148-8b92-bfd7a63d087b")
 			(effects

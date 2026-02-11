@@ -3442,6 +3442,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "B+"
+		(exclude_from_sim no)
+		(at 32.004 123.444 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6c8750d-6815-40f6-bc74-f735ef699cae")
+	)
+	(text "B-"
+		(exclude_from_sim no)
+		(at 32.004 125.984 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cb4b33f4-2868-44a5-8dd0-64f8d8736b31")
+	)
+	(text "Pack-"
+		(exclude_from_sim no)
+		(at 32.004 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc17f4da-3503-44d7-9dbd-fb26b2ebcadb")
+	)
 	(junction
 		(at 101.6 58.42)
 		(diameter 0)
@@ -3533,6 +3563,12 @@
 		(uuid "927a0b26-a712-4d49-b927-6589f7131ec1")
 	)
 	(junction
+		(at 62.23 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "993981d2-5269-4b30-b836-f09bfc356887")
+	)
+	(junction
 		(at 255.27 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3599,12 +3635,6 @@
 		(uuid "c18d4a47-9d88-4483-9fdb-69e1f3a32b09")
 	)
 	(junction
-		(at 62.23 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c592dcf2-5e86-40df-8535-4b7f3c09f6d0")
-	)
-	(junction
 		(at 264.16 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3647,8 +3677,8 @@
 		(uuid "467b7b24-388c-4c4f-83f7-8b0aee604d2a")
 	)
 	(no_connect
-		(at 41.91 120.65)
-		(uuid "495511fb-2d84-446f-9d40-d7b5c0d5d124")
+		(at 41.91 130.81)
+		(uuid "96ea734b-3dc2-4994-bd11-2d8df5c04b76")
 	)
 	(no_connect
 		(at 129.54 162.56)
@@ -3813,26 +3843,6 @@
 			(type default)
 		)
 		(uuid "10263f04-2d35-49a4-8259-74f5e25ef930")
-	)
-	(wire
-		(pts
-			(xy 54.61 125.73) (xy 41.91 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1243d093-3813-4e12-8ea7-3e4985eb9a9a")
-	)
-	(wire
-		(pts
-			(xy 62.23 128.27) (xy 41.91 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12f768e2-887a-425f-89a8-ccbeffd463cc")
 	)
 	(wire
 		(pts
@@ -4376,6 +4386,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 128.27) (xy 62.23 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74ec123a-c016-4096-a576-746ae29bce35")
+	)
+	(wire
+		(pts
 			(xy 240.03 60.96) (xy 240.03 69.85)
 		)
 		(stroke
@@ -4546,6 +4566,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 123.19) (xy 50.8 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d05d6a3-05f0-434f-a421-c77983b8d227")
+	)
+	(wire
+		(pts
 			(xy 81.28 128.27) (xy 95.25 128.27)
 		)
 		(stroke
@@ -4653,16 +4683,6 @@
 			(type default)
 		)
 		(uuid "9781c035-23a0-4f89-8c90-1a7c4469a04d")
-	)
-	(wire
-		(pts
-			(xy 41.91 123.19) (xy 50.8 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a5eea32-cdf9-4b11-ab73-d3b65e9fb4bd")
 	)
 	(wire
 		(pts
@@ -4813,6 +4833,16 @@
 			(type default)
 		)
 		(uuid "b107d813-253c-4698-9ca6-0401eb23b3be")
+	)
+	(wire
+		(pts
+			(xy 41.91 125.73) (xy 54.61 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b112ce54-4ef4-4ea1-9e84-534c3956f8d7")
 	)
 	(wire
 		(pts
@@ -5462,16 +5492,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 36.83 125.73 180)
+		(at 36.83 125.73 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0cd50298-e504-4a6d-ac59-a22b411cd31c")
 		(property "Reference" "J2"
-			(at 36.83 114.3 0)
+			(at 36.83 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,14 +5509,14 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x04"
-			(at 36.83 116.84 0)
+			(at 36.83 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
 			(at 36.83 125.73 0)
 			(effects
 				(font
